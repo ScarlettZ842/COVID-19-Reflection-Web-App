@@ -1,0 +1,105 @@
+body {
+    background-color:darkgray;
+}
+
+.title{
+    text-align:center;
+    margin-top:-12%;
+}
+
+.logo-image{
+    width:15%;
+    height:15%;
+
+}
+
+.leveltitle{
+    margin-left:87%;
+    margin-top:2%;
+
+}
+
+.level{
+    margin-left:88%; 
+    font-size:40px;
+    margin-top:-1%;
+    color: gold;
+}
+
+#caseinfo{
+    display: flex;
+    flex-direction:row;
+    margin-left:4%;
+    margin-top:-3%;
+    font-weight:bold;
+    text-align:center;
+}
+
+#caseinfo > * {
+    margin: 2%;
+  }
+
+.casetitle{
+    margin-top:-10%;
+    text-align:center;
+}
+
+.COVIDtitle{
+    margin-left:27%;
+    margin-top:15%;
+}
+
+.info2title{
+    margin-left:32%;
+}
+
+#graphinfo1{
+    margin-top:-13%;
+}
+
+#titleformat{
+    text-align:center;
+    font-size:21px;
+    margin-top:-1%
+}
+
+#linedateformat{
+    margin-left:87%;
+    margin-top:-6%
+}
+
+#databox{
+    margin-left:84%;
+    margin-top:-60%;
+}
+
+#databoxstas{
+    margin-left:-35%;
+    height:680px;
+    width:250px;
+    overflow:scroll;
+    background-color:black;
+    color:white;
+    padding:5px;
+}
+
+#databoxstas::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+
+#databoxstas::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px gold; 
+    border-radius: 10px;
+}
+
+#databoxstas::-webkit-scrollbar-thumb {
+    background: gold;  
+    border-radius: 10px;
+}
+
+#databoxstas::-webkit-scrollbar-thumb:hover {
+    background: goldenrod; 
+}
+
+

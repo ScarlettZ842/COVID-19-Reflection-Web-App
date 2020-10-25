@@ -1,0 +1,14 @@
+In my "NZ COVID-19 Cases Tracker" website, I divided the webpage into three areas. 
+
+The first area demonstrates some trivial information of NZ COVID-19, such as this website logo, the NZ cases information updated date,
+the current national alert level and the link to jump to the other website and fetch more detailed cases data.
+
+The second area uses the list and numbers to directly represent NZ COVID-19 cases. The top case statistics section shows the total cases,
+recovered cases, new cases today, deaths cases, new deaths cases as well as serious cases of the latest day seperately, the displayed data will also 
+be updated everyday. And the list illustrates each days statistics in reverse order, users can obviously browse the latest data and scroll 
+down to scan the earlier cases data.
+
+The thrid area is comprised with two graphs. One graph is a line graph which exhibits NZ total deaths cases, users can distinctly find the 
+graph shows upward tendency, and the deaths cases has an enormous increase approximately from 3/19/2020 to 4/18/2020. Another graph is a bar graph
+which reveals everyday's total cases and recovered cases from 2/28/2020 until the latest day. The bar graphs of two kinds of cases are overlapped, which 
+yields users compare different data conveniently.
